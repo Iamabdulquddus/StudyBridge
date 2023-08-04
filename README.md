@@ -32,11 +32,15 @@ The admin dashboard is the central hub for managing the entire school system. It
 
 
 ## Screenshots
+### - New Teacher adding form 
+![App Screenshot](https://github.com/Iamabdulquddus/StudyBridge/blob/main/assets/screenshots/addteacher.JPG)
+### - Lookup all teachers
+![App Screenshot](https://github.com/Iamabdulquddus/StudyBridge/blob/main/assets/screenshots/allteachers.JPG)
+### - Promoting the class to next
+![App Screenshot](https://github.com/Iamabdulquddus/StudyBridge/blob/main/assets/screenshots/promoteclass.JPG)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### - Adding new student form - This screenshot shows the window app is responsive
+![App Screenshot](https://github.com/Iamabdulquddus/StudyBridge/blob/main/assets/screenshots/student.JPG)
 
 
 ## Flutter-Based Windows App
